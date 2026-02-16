@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://anoop-tripathi.vercel.app/">Portfolio</a> •
-  <a href="www.linkedin.com/in/anooptripathi428">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/anooptripathi428/">LinkedIn</a> •
   <a href="https://x.com/tanoop428">Twitter</a> •
-  <a href="t.luck.0101@gmail.com">Email</a>
+  <a href="mailto:t.luck.0101@gmail.com">Email</a>
 </p>
 
 ---
